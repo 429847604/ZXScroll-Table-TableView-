@@ -1,0 +1,2 @@
+# ZXScroll-Table-TableView-
+自定义的View，实现类似ScrollView的效果，使用时只需要传入需要滑动的个数，就可以实现左右滑动的展示N个TableView的效果，也可以点击按钮进行tableView的切换，数据获取之后的实现在我自定义的View中操作，Demo中没有进行演示。
